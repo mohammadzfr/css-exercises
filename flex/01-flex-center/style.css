@@ -1,4 +1,9 @@
 .container {
+  /* ADDED CODE - START */
+  display: flex;
+  align-items: center; /* Aligns vertically? */
+  justify-content: center; /* Aligns horizontally? */
+  /* END */
   background: dodgerblue;
   border: 4px solid midnightblue;
   width: 400px;

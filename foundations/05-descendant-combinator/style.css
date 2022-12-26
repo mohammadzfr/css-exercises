@@ -1,0 +1,13 @@
+.container #text {
+    background-color: yellow;
+    color: rgb(255,0,0);
+    font-size: 24px;
+    text-align: center;
+    font-family: Verdana;
+}
+#container .text {
+    background-color: yellow;
+    color: rgb(255,0,0);
+    font-size: 24px;
+    font-family: Verdana;
+}

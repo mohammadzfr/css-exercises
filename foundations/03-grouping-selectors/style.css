@@ -1,0 +1,15 @@
+
+.yellow, /* Make sure to add a comma when grouping */
+.black {
+    font-size: 24px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.yellow {
+    background-color:#e1ff00;
+}
+
+.black {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
